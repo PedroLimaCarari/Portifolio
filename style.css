@@ -1,0 +1,12 @@
+body{
+    background-image: url("image/fundo.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.sombra{
+    box-shadow: 20px 20px 20px black ;
+}
+navbar{
+    margin-bottom: 0;
+    border-radius: 0;
+}   
