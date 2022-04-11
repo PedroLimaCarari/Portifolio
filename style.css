@@ -10,3 +10,12 @@ navbar{
     margin-bottom: 0;
     border-radius: 0;
 }   
+.contato{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.centro{
+   text-align: center;
+}
